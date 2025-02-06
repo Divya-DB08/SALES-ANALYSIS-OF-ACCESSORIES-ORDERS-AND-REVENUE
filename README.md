@@ -31,11 +31,7 @@ Revenue Trend Chart: Displays the monthly revenue trend over the selected date r
 Category-wise Revenue (Bar Chart): Shows the revenue distribution across different product categories. This helps understand which categories are driving the most sales.
 Implied Geographic Visualizations: In an interactive dashboard, geographic data would likely be visualized using maps or charts:
 Map: Showing sales performance by country/territory, with color gradients or markers to indicate revenue levels.
-Bar charts or other charts: Comparing sales performance across different countries or territories.1   
-1.
-GitHub - pmrk2000/Tableau-Project-Comparison-of-Region-Based-on-Sales.
-
-github.com
+Bar charts or other charts: Comparing sales performance across different countries or territories.   
 
 Analysis and Interpretation Potential:
 
